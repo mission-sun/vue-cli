@@ -1,0 +1,7 @@
+body {
+  background: #fff;
+}
+.hello {
+  color: red;
+  background: url("./icon.png") center center no-repeat;
+}
