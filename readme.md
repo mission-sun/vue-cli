@@ -3,6 +3,7 @@
 ##### 项目运行
 
 ```
+  1. 第一安装webpack 以及安装webpack-cli 从webapck 开始 cli单独独立出来了，所有在应用4.0时需要安装cli
    npx webpack --config webpack.config.js
 
    // 运行上边配置比较繁琐， 我们可以使用npm 脚本来运行我们的配置
